@@ -1,6 +1,6 @@
 # Corey Wade
 
-**25 years enterprise infrastructure x AI/ML PhD candidate**
+**25 years enterprise infrastructure x AI/ML PhD**
 
 Building tools at the intersection of network operations, cybersecurity, and artificial intelligence. CCIE #14124 | CISSP | SOFAM researcher.
 
