@@ -36,7 +36,7 @@ See the full **[Portfolio Index](https://github.com/cwccie/portfolio)** for deta
 
 ## Current Focus
 
-- PhD research: [Self-Optimizing Fuzzy-ARTMAP (SOFAM)](https://github.com/cwccie/SOFAM) — University of Oklahoma
+- PhD research: [Self-Optimizing Fuzzy-ARTMAP (SOFAM)](https://github.com/cwccie/SOFAM) — National University
 - Building the AI-native network operations platform at [netopshub.com](https://netopshub.com)
 - Fine-tuning domain-specific LLMs for [network operations](https://github.com/cwccie/netops-7b) and [vulnerability analysis](https://github.com/cwccie/cve-analyst-7b)
 
